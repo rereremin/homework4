@@ -1,0 +1,15 @@
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.csproj.AssemblyReference.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.AssemblyInfoInputs.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.AssemblyInfo.cs
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.csproj.CoreCompileInputs.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/bin/Debug/net7.0/ex27
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/bin/Debug/net7.0/ex27.deps.json
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/bin/Debug/net7.0/ex27.runtimeconfig.json
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/bin/Debug/net7.0/ex27.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/bin/Debug/net7.0/ex27.pdb
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/refint/ex27.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.pdb
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ex27.genruntimeconfig.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homeworks/homework4/ex27/obj/Debug/net7.0/ref/ex27.dll
